@@ -4,7 +4,6 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import './BookCard.css';
 import BookCard from './BookCard';
-import Book from './Book';
 
 
 const Mainpage = () => {
