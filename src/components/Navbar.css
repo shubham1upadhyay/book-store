@@ -1,0 +1,38 @@
+.mynav{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #C3BEBE;
+    border: 1px #FFFFFF solid;
+}
+.search{
+    width:600px;
+    background-color: #C3BEBE;
+    border: 1px solid #3c3a3a;
+    padding: 3px 0px;
+    color: white;
+}
+::placeholder{
+    padding: 0px 30px;
+    color:white;
+}
+.brand-logo h4{
+    color:#FFFFFF;
+    font-family:Roboto;
+}
+.brand-logo span{
+    color:#C3BEBE;
+    font-family:Varela;
+}
+.search-btn{
+    background-color: #FFFFFF 50%;
+    border: 1px white;
+    width:150px;
+    padding: 3px 0px;
+    cursor: pointer;
+}
+.nav-img img{
+    width:35px;
+    margin-right: 10px;
+    cursor: pointer;
+}
